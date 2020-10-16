@@ -1,0 +1,28 @@
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\Game_001.exe.config
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\Game_001.exe
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\Game_001.pdb
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.Form1.resources
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.Properties.Resources.resources
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.exe
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.pdb
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\MetroFramework.dll
+C:\Users\admin\source\repos\Game_001\Game_001\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\source\repos\Game_001\Game_001\obj\Debug\Game_001.csproj.CopyComplete
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\Game_001.exe.config
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\Game_001.exe
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\Game_001.pdb
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.csproj.CopyComplete
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.exe
+C:\Users\admin\Desktop\Smart Factory\Game\PushPush\Game_001\obj\Debug\Game_001.pdb

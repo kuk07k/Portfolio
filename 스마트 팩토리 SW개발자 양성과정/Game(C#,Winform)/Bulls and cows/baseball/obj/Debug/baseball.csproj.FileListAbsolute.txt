@@ -1,0 +1,52 @@
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\bin\Debug\baseball.exe
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\bin\Debug\baseball.pdb
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.Form1.resources
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.Properties.Resources.resources
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.exe
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.pdb
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.CopyComplete
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\bin\Debug\baseball.exe
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\bin\Debug\baseball.pdb
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.csproj.CopyComplete
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.exe
+C:\Users\admin\Desktop\Smart Factory\Game\baseball-inasie (1)\baseball\obj\Debug\baseball.pdb
+C:\Users\admin\Desktop\Bulls and cows\baseball\bin\Debug\baseball.exe
+C:\Users\admin\Desktop\Bulls and cows\baseball\bin\Debug\baseball.pdb
+C:\Users\admin\Desktop\Bulls and cows\baseball\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\Bulls and cows\baseball\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\Bulls and cows\baseball\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.Form1.resources
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.Properties.Resources.resources
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.csproj.CopyComplete
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.exe
+C:\Users\admin\Desktop\Bulls and cows\baseball\obj\Debug\baseball.pdb
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\bin\Debug\baseball.exe
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\bin\Debug\baseball.pdb
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.Form1.resources
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.Properties.Resources.resources
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.csproj.CopyComplete
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.exe
+C:\Users\admin\Desktop\Smart Factory\Game\Bulls and cows\baseball\obj\Debug\baseball.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPush", "Game_001\PushPush.csproj", "{C618F4F3-01A0-43DF-B291-1477BE2C368B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C618F4F3-01A0-43DF-B291-1477BE2C368B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C618F4F3-01A0-43DF-B291-1477BE2C368B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C618F4F3-01A0-43DF-B291-1477BE2C368B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C618F4F3-01A0-43DF-B291-1477BE2C368B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F64C4D-5BCB-4A7A-902E-4C02C19D6A21}
+	EndGlobalSection
+EndGlobal
